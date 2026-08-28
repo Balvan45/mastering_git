@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-## Heyooo everyone, welcome to by guide!
 
-
-# Balvan Here
-
-=======
 ## Welcome to Git!
+
+## hoooooooooooooooooooo iam freeeeee
 
 
 # This is from 'Balvan Kumar'
->>>>>>> main
+
